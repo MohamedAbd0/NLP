@@ -1,0 +1,10 @@
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\bin\Debug\Task Japan.exe.config
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\bin\Debug\Task Japan.exe
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\bin\Debug\Task Japan.pdb
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task Japan.csprojResolveAssemblyReference.cache
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task_Japan.Form1.resources
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task_Japan.Properties.Resources.resources
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task Japan.csproj.GenerateResource.Cache
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task Japan.csproj.CoreCompileInputs.cache
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task Japan.exe
+D:\university\4cs\4CS 1th\2017-2018\NLP\Task Japan\Task Japan\obj\Debug\Task Japan.pdb

@@ -8,15 +8,18 @@ import operator
 from nltk.corpus import brown
 import tkinter
 from tkinter import *
+
 root = tkinter.Tk()
 root.title("NLP Text Correlation")
 root.geometry("250x200")
 var = StringVar()
 news=brown.words(categories='news')
 news_sent=brown.sents(categories='news')
+
 dec ={} #عشان اخزن جواها كل كانديت ست لكل كلمة ا 
 lst_sent=[] #دي عشان اخزن فيها كل الجمل المتوقعة
 atlm={} # دي استخدمتها في توليد الجمل من الكلمات اللي طلعتلي
+
 # الدالة دي عشان اقدر اكون الكانديدت لكل كلمة عن طريقة اني بحسب ال منيمم ايدت دستنس لكل كلمة مع كل الكوربس
 def CandSet(txt):
     dec1 ={} #دي هستخدمها عشان اخد جواها كل الكانديدت ست لكل كلمة وفي الاخر هخد منها اقل 4 بس
